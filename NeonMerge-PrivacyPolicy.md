@@ -4,8 +4,7 @@
 ### Information Collection and Use  
 We do not collect or use any personal information.
 
- **Localization**
-The game checks the device language to set the game language within the available options.
+ - **Localization:** The game checks the device language to set the game language within the available options.
 
 ### Service Providers  
 - This game has advertisements. The advertisements are provided by *Google AdMob* and *Unity Ads* services using *Unity LevelPlay: Ad Mediation Platform*.

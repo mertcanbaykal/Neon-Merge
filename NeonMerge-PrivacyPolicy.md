@@ -2,7 +2,7 @@
 
 
 ### Information Collection and Use  
-Other than localization, we do not collect or use any personal information. Even for localization; we do not receive the data, entire process happens on the local device for user experience.
+Other than localization, we do not collect or use any personal information. Even for localization; we do not receive the data, entire process happens on the local device to improve the user experience.
  - **Localization:** The game checks the device language to set the game language within the available options.
 
 ### Service Providers  

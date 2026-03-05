@@ -4,7 +4,7 @@
 ### Information Collection and Use  
 We do not collect or use any personal information.
 
-### Localization
+ **Localization**
 The game checks the device language to set the game language within the available options.
 
 ### Service Providers  

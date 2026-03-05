@@ -8,8 +8,8 @@ We do not collect or use any personal information.
 The game checks the device language to set the game language within the available options.
 
 ### Service Providers  
-This game has advertisements. The advertisements are provided by *Google AdMob* and *Unity Ads* services using *Unity LevelPlay: Ad Mediation Platform*.
-Users have the option to remove the advertisements from the game by paying the features price using services from *Google Play* or *App Store*.
+- This game has advertisements. The advertisements are provided by *Google AdMob* and *Unity Ads* services using *Unity LevelPlay: Ad Mediation Platform*.
+- Users have the option to remove the advertisements from the game by paying the features price using services from *Google Play* or *App Store*.
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately, after they are posted on this page.

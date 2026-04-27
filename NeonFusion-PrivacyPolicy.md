@@ -16,4 +16,4 @@ Other than localization, we do not collect or use any personal information. Even
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately, after they are posted on this page.
 
 ### Contact  
-If you have any questions or concerns, please contact at ***mertcanbaykal@hotmail.com***.
+If you have any questions or concerns, please contact at ***mrtcnbykl@gmail.com***.
